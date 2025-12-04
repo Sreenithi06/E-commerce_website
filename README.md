@@ -16,7 +16,7 @@ The platform features a dynamic product catalog and an **AI-powered assistant** 
 - **Backend:** Python, Flask
 - **Frontend:** HTML, CSS
 - **Database:** SQLite
-- **AI Integration:** OpenAI API
+- **AI Integration:** OpenAI API.
 
 ## Why This Project
 This project demonstrates the integration of **web development and AI** in a real-world application.  
